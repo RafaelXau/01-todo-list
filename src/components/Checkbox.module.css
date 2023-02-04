@@ -1,0 +1,15 @@
+.complete {
+  color: var(--purple-300);
+}
+
+.complete:hover {
+  color: var(--purple-500);
+}
+
+.notComplete {
+  color: var(--blue-300);
+}
+
+.notComplete:hover {
+  color: var(--blue-500);
+}
